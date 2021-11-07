@@ -1,3 +1,7 @@
+import numpy as np
 import pandas as pd
-import NumPy as np
+import matplotlib
+import scipy
+import sklearn.model_selection
+
 

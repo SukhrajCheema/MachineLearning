@@ -24,7 +24,6 @@ print(data_main.head())
 # Hence 207 california districts are missing this feature.
 
 data_main.hist(bins=50, figsize=(20, 15))
-plt.show()
 
 """
 median income is pre-processed.

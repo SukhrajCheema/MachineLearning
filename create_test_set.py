@@ -18,7 +18,7 @@ Rather than completely random.
 
 
 data["income cat"].hist()
-plt.show()
+# will not be shown because we removed these data points below.
 
 
 sss = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=42)
